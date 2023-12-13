@@ -1,0 +1,25 @@
+.dropdown-menu {
+  padding: 15px;
+  max-height: 200px;
+  overflow-x: hidden;
+}
+
+.dropdown-menu a {
+  display: block;
+}
+
+.dropdown-menu a:hover {
+  background-color: #f1f1f1;
+}
+
+.response {
+  border: 2px solid green;
+  padding: 10px;
+  border-radius: 5px;
+}
+
+.error {
+  border: 2px solid red;
+  padding: 10px;
+  border-radius: 5px;
+}
